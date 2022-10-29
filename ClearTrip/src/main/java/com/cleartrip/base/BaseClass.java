@@ -61,7 +61,7 @@ public class BaseClass {
 		/*Iterator<String> it=data.keySet().iterator();
 		while(it.hasNext()) {
 			String cultureCD=it.next();
-			List<String> value = data.get(cultureCD);*/
+			List<String> value = data.get(cultureCD);
 		
 			for(String productCD :data) {
 				try {
